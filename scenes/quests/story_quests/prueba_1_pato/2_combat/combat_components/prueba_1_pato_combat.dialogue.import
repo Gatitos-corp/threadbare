@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dvlghhmmr552n"
+path="res://.godot/imported/prueba_1_pato_combat.dialogue-8930125ebae1881409c88ca08ca1228d.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba_1_pato/2_combat/combat_components/prueba_1_pato_combat.dialogue"
+dest_files=["res://.godot/imported/prueba_1_pato_combat.dialogue-8930125ebae1881409c88ca08ca1228d.tres"]
+
+[params]
+
+defaults=true

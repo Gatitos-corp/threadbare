@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dpdb63txq0b54"
+path="res://.godot/imported/prueba_1_pato_sequence_puzzle.dialogue-17bcb82ffb7e84d82a7c10e319d2e360.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba_1_pato/3_sequence_puzzle/prueba_1_pato_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/prueba_1_pato_sequence_puzzle.dialogue-17bcb82ffb7e84d82a7c10e319d2e360.tres"]
+
+[params]
+
+defaults=true

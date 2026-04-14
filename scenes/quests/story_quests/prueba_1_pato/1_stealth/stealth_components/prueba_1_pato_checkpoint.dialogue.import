@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://7dcyohv7vvad"
+path="res://.godot/imported/prueba_1_pato_checkpoint.dialogue-f913e35863e69bbd1acefdd31344b55e.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba_1_pato/1_stealth/stealth_components/prueba_1_pato_checkpoint.dialogue"
+dest_files=["res://.godot/imported/prueba_1_pato_checkpoint.dialogue-f913e35863e69bbd1acefdd31344b55e.tres"]
+
+[params]
+
+defaults=true

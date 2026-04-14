@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://0bfie70s8ryh"
+path="res://.godot/imported/prueba_1_pato_stealth.dialogue-b9c3471318c5cc7b6595ccf66f3d8856.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba_1_pato/1_stealth/stealth_components/prueba_1_pato_stealth.dialogue"
+dest_files=["res://.godot/imported/prueba_1_pato_stealth.dialogue-b9c3471318c5cc7b6595ccf66f3d8856.tres"]
+
+[params]
+
+defaults=true
