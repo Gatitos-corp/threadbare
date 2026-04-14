@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://g757kyhr6qv"
+path="res://.godot/imported/prueba_1_pato_intro.dialogue-98448413bfef150b6bc4839d3e2c636d.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba_1_pato/0_intro/intro_components/prueba_1_pato_intro.dialogue"
+dest_files=["res://.godot/imported/prueba_1_pato_intro.dialogue-98448413bfef150b6bc4839d3e2c636d.tres"]
+
+[params]
+
+defaults=true
