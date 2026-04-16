@@ -1,7 +1,7 @@
 [gd_scene format=4 uid="uid://be8nkglshtxfd"]
 
 [ext_resource type="TileSet" uid="uid://cx8kjkpk1ece3" path="res://scenes/quests/story_quests/prueba_1_pato/tiles/prueba_1_pato_exterior_floors.tres" id="1_yn2ox"]
-[ext_resource type="Texture2D" uid="uid://07k43id4c81h" path="res://assets/first_party/templates/intro/NO_EDIT_intro_image.png" id="2_rqa4y"]
+[ext_resource type="Texture2D" uid="uid://bb3jbjr8dab2x" path="res://scenes/quests/story_quests/after_the_tremor/0_intro/0_intro_part6/Credits_ @arch_aep  on TikTok _#anime #アニメ #edit #animeedit #amv #frierenbeyondjourneysend #frieren.jpg" id="2_yn2ox"]
 [ext_resource type="SpriteFrames" uid="uid://b1t081rkrsu8y" path="res://scenes/quests/story_quests/prueba_1_pato/player_components/prueba_1_pato_player.tres" id="3_dgdmj"]
 [ext_resource type="Script" uid="uid://x1mxt6bmei2o" path="res://scenes/ui_elements/cinematic/cinematic.gd" id="4_drndc"]
 [ext_resource type="Resource" uid="uid://g757kyhr6qv" path="res://scenes/quests/story_quests/prueba_1_pato/0_intro/intro_components/prueba_1_pato_intro.dialogue" id="5_e8qfa"]
@@ -107,21 +107,24 @@ tile_set = ExtResource("1_yn2ox")
 metadata/_edit_lock_ = true
 
 [node name="IntroImage" type="Sprite2D" parent="TileMapLayers" unique_id=1406016146]
-position = Vector2(770, 227)
-scale = Vector2(0.802083, 0.802083)
-texture = ExtResource("2_rqa4y")
+position = Vector2(771, 225.50003)
+scale = Vector2(0.33423913, 0.42255428)
+texture = ExtResource("2_yn2ox")
 
 [node name="Sand" type="TileMapLayer" parent="TileMapLayers" unique_id=874671513]
 tile_map_data = PackedByteArray("AAAKAAEABgAAAAAAAAAKAAIABgADAAEAAAAKAAMABgADAAEAAAAKAAQABgADAAEAAAANAAEABgACAAAAAAANAAIABgADAAEAAAANAAMABgADAAEAAAANAAQABgADAAEAAAAKAAUABgAAAAIAAAALAAEABgABAAMAAAALAAUABgABAAMAAAAMAAEABgABAAMAAAAMAAUABgABAAMAAAANAAUABgACAAIAAAAAAAcAAQAGAAMAAAABAAcAAQAGAAMAAAACAAcAAQAGAAMAAAADAAcAAQAGAAMAAAAEAAcAAQAGAAMAAAAFAAcAAQAGAAMAAAAGAAcAAQAGAAMAAAAHAAcAAQAGAAMAAAAIAAcAAQAGAAMAAAAJAAcAAQAGAAMAAAAKAAcAAQAGAAMAAAALAAcAAQAGAAMAAAAMAAcAAQAGAAMAAAANAAcAAQAGAAMAAAAOAAcAAQAGAAMAAAD//wcAAQAGAAMAAAD+/wcAAQAGAAMAAAD9/wcAAQAGAAMAAAD8/wcAAQAGAAMAAAD7/wcAAQAGAAMAAAD6/wcAAQAGAAMAAAD5/wcAAQAGAAMAAAD4/wcAAQAFAAMAAAAPAAcAAQAGAAMAAAAQAAcAAQAGAAMAAAARAAcAAQAGAAMAAAASAAcAAQAGAAMAAAATAAcAAQAGAAMAAAAUAAcAAQAGAAMAAAAVAAcAAQAGAAMAAAAWAAcAAQAHAAMAAAA=")
 tile_set = ExtResource("1_yn2ox")
 
+[node name="Descarga(5)" type="Sprite2D" parent="TileMapLayers" unique_id=125108777]
+position = Vector2(1073, 502)
+
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1064875179]
 position = Vector2(153, 366)
 zoom = Vector2(1.333, 1.333)
-limit_left = 0
-limit_top = 0
-limit_right = 960
-limit_bottom = 540
+limit_left = -23
+limit_top = -8
+limit_right = 937
+limit_bottom = 532
 position_smoothing_enabled = true
 editor_draw_limits = true
 

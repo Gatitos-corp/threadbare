@@ -348,7 +348,7 @@ position = Vector2(1310, 598)
 eternal_loom = NodePath("../../EternalLoom")
 
 [node name="TemplateElder" parent="OnTheGround/NPCs" unique_id=45322364 node_paths=PackedStringArray("eternal_loom") instance=ExtResource("43_ppslc")]
-position = Vector2(1455, 493)
+position = Vector2(989, 701)
 eternal_loom = NodePath("../../EternalLoom")
 
 [node name="Axeman" parent="OnTheGround/NPCs" unique_id=1020611644 instance=ExtResource("17_0a1i7")]
